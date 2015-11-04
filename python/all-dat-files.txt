@@ -1,0 +1,8 @@
+./inputs/run1.dat
+./inputs/run2.dat
+./inputs/run3.dat
+./inputs/run4.dat
+./outputs/run1.dat
+./outputs/run2.dat
+./outputs/run3.dat
+./outputs/run4.dat
